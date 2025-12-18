@@ -51,12 +51,14 @@ npm install
 
 - create your .env file using this inside (fill the variables with your secrets):
 
+```
 MONGO_URL=
 PORT=5000
 JWT=
 CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
+```
 
 # Run the Server
 
