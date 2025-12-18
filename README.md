@@ -63,7 +63,7 @@ CLOUDINARY_API_SECRET=
 # Run the Server
 
 ```bash
-node src/server.js
+npm run start
 ```
 - The API will be available at http://localhost:5000/api
 
