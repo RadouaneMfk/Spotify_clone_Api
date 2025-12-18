@@ -5,11 +5,13 @@ Handles authentication, users, playlists, and tracks.
 
 # Tech stack
 
-- NodeJs
-- ExpressJs
-- MongoDB
-- JWT
-- Cloudinary
+```
+NodeJs
+ExpressJs
+MongoDB
+JWT
+Cloudinary
+```
 
 # Features
 
@@ -27,7 +29,8 @@ Handles authentication, users, playlists, and tracks.
 
 # API Structure
 
-```src/
+```
+src/
  ├── config/   # Cloudinary configurations
  ├── controllers/        # request handlers
  ├── middlwares/        # Auth & upload handling (Multer)
